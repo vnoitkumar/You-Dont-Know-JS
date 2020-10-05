@@ -228,6 +228,7 @@ The specific list of "falsy" values in JavaScript is as follows:
 
 Any value that's not on this "falsy" list is "truthy." Here are some examples of those:
 
+* `" "` (string with space)
 * `"hello"`
 * `42`
 * `true`
